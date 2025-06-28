@@ -14,6 +14,7 @@ pandas = "^2.3.0"
 openpyxl = "^3.1.5"
 openai = "^1.86.0"
 google-generativeai = "^0.5.2"
+markdown = "^3.8.2"
 
 [tool.pyright]
 # https://github.com/microsoft/pyright/blob/main/docs/configuration.md
